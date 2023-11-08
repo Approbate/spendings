@@ -41,6 +41,6 @@ To get started with the Spending app, follow these steps:
 
 ## Contributing
 
-
+Interested developers may contribute to this open-source project.
 
 ## License
