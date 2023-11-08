@@ -1,6 +1,7 @@
 # Spendings
 
-![Stunning designs (9)](https://github.com/Approbate/Spendings/assets/45993774/ad8495ef-292e-477d-8fe1-f42a303a783c)
+![Stunning designs (7)](https://github.com/Approbate/Spendings/assets/45993774/61aa0a45-7b6b-4d52-9372-2361c86bd26d)
+
 
 An Android application ( for now ) for all those who can't keep track of their spending.
 
